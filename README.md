@@ -1,4 +1,4 @@
 # first-demo
 My first repository
 <br>
-Author - Sandeep Sherkhane
+Author - Sandeep Sherkhane (VDIT)
